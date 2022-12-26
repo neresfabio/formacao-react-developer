@@ -1,8 +1,8 @@
 # Calculadora Simples Criada com React - 
 
--[x] Criando componentes.
+- [x] Criando componentes.
 
--[x] Utilizando useState().
+- [x] Utilizando useState().
 
 ***
 ## Author
