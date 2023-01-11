@@ -13,7 +13,7 @@
 
 [Git Find](https://github.com/neresfabio/formacao-react-developer/tree/main/consumindo-api-github/gitfind)
 
-[Wiki de Repositórios]()
+[Wiki de Repositórios](https://github.com/neresfabio/formacao-react-developer/tree/main/criando-wik-repositorio/reportwebvitals)
 
 
 ***
