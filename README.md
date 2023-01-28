@@ -17,6 +17,9 @@
 
 [Projeto Clone plataforma Dio](https://github.com/neresfabio/formacao-react-developer/tree/main/dio-clone)
 
+### Demo Clone DIo
+
+![Nome do GIF](link do GIF)
 
 ***
 ## Author
