@@ -15,7 +15,7 @@
 
 [Wiki de Repositórios](https://github.com/neresfabio/formacao-react-developer/tree/main/criando-wik-repositorio/reportwebvitals)
 
-[Clone plataforma Dio](https://github.com/neresfabio/formacao-react-developer/tree/main/criando-wik-repositorio/reportwebvitals)
+[Projeto Clone plataforma Dio](https://github.com/neresfabio/formacao-react-developer/tree/main/dio-clone)
 
 
 ***
