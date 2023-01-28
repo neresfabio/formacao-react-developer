@@ -19,7 +19,7 @@
 
 ### Demo Clone DIo
 
-![Nome do GIF](link do GIF)
+![Demonstração clone dio gif](https://github.com/neresfabio/formacao-react-developer/blob/main/lixo/demo-01.gif)
 
 ***
 ## Author
